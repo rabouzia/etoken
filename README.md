@@ -1,0 +1,2 @@
+# etoken
+Simple solidity token.
